@@ -1,0 +1,13 @@
+﻿StudentName,Class,Subject,Marks,Attendance,Gender,ExamDate,Teacher
+Aarav,10,Math,85,92,Male,1/10/2025,Mr. Kumar
+Diya,10,Science,78,88,Female,1/10/2025,Ms. Sharma
+Rohan,9,Math,65,75,Male,1/12/2025,Mr. Kumar
+Sneha,9,English,82,90,Female,1/12/2025,Ms. Iyer
+Arjun,10,Science,91,95,Male,1/15/2025,Ms. Sharma
+Meera,8,Math,74,85,Female,1/18/2025,Mr. Kumar
+Karthik,8,English,69,80,Male,1/18/2025,Ms. Iyer
+Ananya,9,Science,88,93,Female,1/20/2025,Ms. Sharma
+Vikram,10,English,72,78,Male,1/22/2025,Ms. Iyer
+Pooja,8,Science,81,89,Female,1/25/2025,Ms. Sharma
+Rahul,9,Math,77,84,Male,1/28/2025,Mr. Kumar
+Lakshmi,10,Math,93,97,Female,1/30/2025,Mr. Kumar
